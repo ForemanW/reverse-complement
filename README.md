@@ -7,4 +7,6 @@ To use: clone this repo, run reverse-complement.py, and input the string of your
 
 # Dependencies:
 no non-native dependencies.
+
+
 Inspired by a problem prompt at rosalind.info
