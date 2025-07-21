@@ -15,7 +15,7 @@ def reverse_complement(input_seq):
     #great, now we convert to a string and output
     result = ''.join(reverse_comp)
 
-    return print(result)
+    return print("reverse complement strand: " + result)
 
 if __name__ == "__main__":
     user_input = input("Please paste the DNA sequence you'd like to reverse complement: ")
